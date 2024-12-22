@@ -6,4 +6,4 @@ Using K-Means and Fuzzy C-Means Clustering techniques performing image and video
 
 Below is the comparison between the original and compressed image using K-Means clustering:
 
-![Original vs Compressed Image](C:\Users\amanm\Desktop\image-video-compression\image_for_readme\output.png)
+![Original vs Compressed Image](image_for_readme\output.png)
