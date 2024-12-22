@@ -1,0 +1,13 @@
+numpy
+matplotlib
+scikit-learn
+scikit-fuzzy
+pandas
+seaborn
+scipy
+imutils
+opencv-python
+imutils
+scikit-image
+scikit-video
+opencv-python
